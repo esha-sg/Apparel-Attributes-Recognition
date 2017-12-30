@@ -8,8 +8,8 @@ The dataset used to train the model is the [Clothing Attribute Dataset](https://
 Sample Image and attributes from the dataset.
 <div>
 <img src="https://raw.githubusercontent.com/esha-sg/Apparel-Attributes-Recognition/master/000008.jpg"
-width="230"height="290">
-Full Sleeve ; Black colour ; Woman ; Low Skin Exposure ....
+width="230"height="290"> <br/>
+Full Sleeve ; Black colour ; Woman ; Low Skin Exposure ...
 <br/>
 </div>
 
@@ -22,8 +22,8 @@ The Inception v3 model is employed to get the feature vectors of the images whic
 Following predictions were made on an image from the validation set.<br/>
 <div>
 <img src="https://raw.githubusercontent.com/esha-sg/Apparel-Attributes-Recognition/master/validation.jpg"
-width="230"height="290">
-Half Sleeves ; Black colour ; Man ; Low Skin Exposure ...
+width="230"height="290"> <br/>
+Half Sleeves ; Black colour ; Man ; Low Skin Exposure ... 
 <br/>
 </div>
 
