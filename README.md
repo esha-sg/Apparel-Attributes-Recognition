@@ -22,7 +22,7 @@ The Inception v3 model is employed to get the feature vectors of the images whic
 Following predictions were made on an image from the validation set.<br/>
 <div>
 <img src="https://raw.githubusercontent.com/esha-sg/Apparel-Attributes-Recognition/master/validation.jpg"
-width="230"height="290"> <br/>
+width="230"height="260"> <br/>
 Half Sleeves ; Black colour ; Man ; Low Skin Exposure ... 
 <br/>
 </div>
